@@ -114,3 +114,14 @@ cd tools/fabric/
 - Hyperledger Composer Official [Documentation](https://hyperledger.github.io/composer/introduction/introduction.html)
 - Developer [Guide](https://hyperledger.github.io/composer/tutorials/developer-guide.html)
 - In-depth research on hyperledger composer [link](https://github.com/aietcn/hyperledger-composer)
+
+### Suggestion and feedback are always welcome, feel free to fork and make changes.
+
+
+## Follow me [@abhinavmish96](https://twitter.com/abhinavmish96) on twitter to clarify any doubts or just drop a Hi!!
+
+<!-- <a href="https://twitter.com/abhinavmish96" target="_blank">@abhinavmish96</a> -->
+
+#### Start today! Happy Coding!!
+
+If you have problems, create an issue on this repo. Thanks! :)
