@@ -6,8 +6,6 @@ This is one implementation of [Hyperledger Composer](https://github.com/hyperled
 
 ![](flow.png)
 
-Master Thesis: [An Approach for Improving Transparency and Traceability of Industrial Supply Chain with Blockchain Technology](http://bit.ly/2PzWQSZ)
-
 ### How to run it?
 
 1. Install packages: `npm install`
@@ -114,6 +112,9 @@ cd tools/fabric/
 - Hyperledger Composer Official [Documentation](https://hyperledger.github.io/composer/introduction/introduction.html)
 - Developer [Guide](https://hyperledger.github.io/composer/tutorials/developer-guide.html)
 - In-depth research on hyperledger composer [link](https://github.com/aietcn/hyperledger-composer)
+
+### Reference:
+Master Thesis: [An Approach for Improving Transparency and Traceability of Industrial Supply Chain with Blockchain Technology](http://bit.ly/2PzWQSZ)
 
 ### Suggestion and feedback are always welcome, feel free to fork and make changes.
 
