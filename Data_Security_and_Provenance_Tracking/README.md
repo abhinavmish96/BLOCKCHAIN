@@ -4,7 +4,7 @@
 
 This is one implementation of [Hyperledger Composer](https://github.com/hyperledger/composer) for supply chain, which demonstrates how Hyperledger blockchain improve transparency and traceability of industrial supply chain.
 
-![](/docs/flow.png)
+![](flow.png)
 
 Master Thesis: [An Approach for Improving Transparency and Traceability of Industrial Supply Chain with Blockchain Technology](http://bit.ly/2PzWQSZ)
 
