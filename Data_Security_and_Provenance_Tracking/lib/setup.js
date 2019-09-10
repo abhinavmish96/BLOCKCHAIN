@@ -18,4 +18,35 @@
               members[role].push(newRole);
           });      
       } 
-    }   
+    }
+     
+    return getParticipantRegistry(NS + '.Supplier')
+        .then(function (supplierRegistry){
+          return supplierRegistry.addAll(members.suppliers);
+        })
+        .then(function(){
+          return getParticipantRegistry(NS + '.Manufacturer')
+        })
+        .then(function (manufacturerRegistry){
+          return manufacturerRegistry.addAll(members.manufacturers);
+        })    
+        .then(function(){
+          return getParticipantRegistry(NS + '.Distributor')
+        })  
+        .then(function (distributorRegistry){
+          return distributorRegistry.addAll(members.distributors);
+        })      
+        .then(function(){
+          return getParticipantRegistry(NS + '.Retailer')
+        })
+        .then(function (retailersRegistry){
+          return retailersRegistry.addAll(members.retailers);
+        })
+        .then(function(){
+          return getParticipantRegistry(NS + '.Customer')
+        })
+        .then(function (customerRegistry){
+          return customerRegistry.addAll(members.customers);
+        })
+}
+
